@@ -7,3 +7,5 @@
 added some unique items
 added some rare items
 added Unskilled level 99 Character files for all Classes
+
+# How to use
