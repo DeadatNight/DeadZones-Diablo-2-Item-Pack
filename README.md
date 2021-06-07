@@ -4,7 +4,7 @@
 # Version 0.2 Beta
 1. 1.08 Unique added
 2. 1.08 Set Items added
-3. 1.08 5-6 affix Jewels added
+3. 1.08 5-6 affix rare Jewels added
 4. Some Magical Items added
 5. added Upped Unique items to Unqiue Folder
 
