@@ -1,5 +1,6 @@
 # DeadZone's Diablo 2 Item Pack
 # Version 0.3 Beta Coming
+1. 1.08 Craft item added
 
 # Version 0.2 Beta
 1. 1.08 Unique added
