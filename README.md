@@ -8,6 +8,7 @@
 3. 1.08 5-6 affix rare Jewels added
 4. Some Magical Items added
 5. added Upped Unique items to Unqiue Folder
+6. Some Runewords added
 
 # Version 0.1 Beta
 1. Unique Items added
