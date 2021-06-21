@@ -1,5 +1,13 @@
 # DeadZone's Diablo 2 Item Pack
+# Version 1.4 Alpha
+
 # Version 0.4 Beta
+1. More Rare items added
+2. More Magical items added
+3. More Runewords added
+4. 1.11 torch added
+5. 1.10 beta only items added
+6. Some Crafted items added
 
 # Version 0.3 Beta
 1. 1.08 Craft item added
